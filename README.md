@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 ## My Personal Stuffs
 - :computer: I'm a Computer engineering student 
 - 🌱 focused Android App Developement and web developement 
-- :coffee: Currently working on improving my knoledge of datastructures and Algorithms
+- :coffee: Currently working on improving my knowledge of data structures and Algorithms
 
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=panchalpk20)   -->
