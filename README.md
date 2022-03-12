@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 
  <img align="right" alt="GIF" src="https://qph.fs.quoracdn.net/main-qimg-82b7314fe96c4a2d8f3088207a4afd8d" width="300" height="200" />
  
-## My Personal Stuffs
+## About me
 - :computer: I'm a Computer engineering student 
 - 🌱 focused Android App Developement and web developement 
 - :coffee: Currently working on improving my knowledge of data structures and Algorithms
