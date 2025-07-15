@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 -->
 
-[![Auto type](https://readme-typing-svg.herokuapp.com/?lines=This+is+Purushottam+Panchal;Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
+[![Auto type](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+profile...)](https://git.io/typing-svg)
 
 
  <img align="right" alt="GIF" src="https://qph.fs.quoracdn.net/main-qimg-82b7314fe96c4a2d8f3088207a4afd8d" width="300" height="200" />
@@ -24,6 +24,37 @@ I'm a Master's student in Computer Science at DePaul University with a strong ba
 
 ---
 
+**My expertise includes:**
+
+* **Programming Languages:** Java, Python, C#, HTML/CSS, SQL
+* **Frameworks:** .NET Core, MVC, Entity Framework, .NET Core Web API, Microservices Architecture
+* **Cloud Services:** AWS (EC2, S3, IAM, SNS, VPC), Azure (SQL Database, DevOps, App Services)
+* **DevOps & Automation:** Experienced in engineering automated workflows using DevOps tools to streamline processes and enhance operational efficiency. I've built Jenkins pipelines to automate data transfers from AWS S3 to EC2 instances, cutting load times by 80% and reducing manual errors. I also reduced data loading failures by 85% through automation and shell scripts.
+* **API Development:** Skilled in architecting and implementing scalable Web APIs using the .NET framework, with a focus on efficient data handling and seamless integration. I also contributed to the development of .NET Web APIs, optimizing back-end solutions.
+* **Testing:** Proficient in designing robust unit tests using **NUnit** and **MSTest** to achieve a bug reduction rate of 15%. I also achieved 95% unit test coverage using NUnit and Moq.
+* **CI/CD:** Played a key role in designing and implementing a streamlined CI/CD pipeline using Azure DevOps, optimizing development workflows and accelerating software delivery.
+
+---
+
+
+**Highlights from my experience:**
+
+* As a **Software Engineer** at Persistent Systems, I engineered automated workflows using DevOps tools, architected and implemented scalable Web APIs, and contributed to a 15% bug reduction rate through rigorous testing.
+* During my **Software Engineer Intern** role at Persistent Systems, I optimized back-end solutions for improved system performance, leading to a **15% decrease in API processing time** by refactoring code and optimizing database queries. I also had the opportunity to lead a team of 11 interns, guiding them through technical development and skill-building.
+
+---
+
+**Certifications:**
+
+* AZ-900 Microsoft Certified Azure Fundamentals
+* AZ-204 Microsoft Certified Azure Developer Associate
+
+---
+
+
+**Connect with me:**
+
+<a href="https://www.linkedin.com/in/purushottampanchal/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=panchalpk20)   -->
 <!-- ![States Card](https://github-readme-stats.vercel.app/api?username=panchalpk20&show_icons=true&theme=radical) -->
@@ -33,24 +64,6 @@ I'm a Master's student in Computer Science at DePaul University with a strong ba
 <a href="https://www.linkedin.com/in/purushottampanchal/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.quora.com/profile/Purushottam-33"><img src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white"></a>
 <a href="https://www.sololearn.com/profile/19062226"><img src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white"></a>
-
-## Knows About
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-
-
-## Favourite IDE's
-![Visual Studio Code](https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-
-## Cotact Me
-
-<a href="mailto:panchalpk20@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 
 ## 
