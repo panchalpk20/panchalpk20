@@ -54,7 +54,7 @@ I'm a Master's student in Computer Science at DePaul University with a strong ba
 
 **Connect with me:**
 
-<a href="https://www.linkedin.com/in/purushottampanchal/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/purushottam-panchal"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=panchalpk20)   -->
 <!-- ![States Card](https://github-readme-stats.vercel.app/api?username=panchalpk20&show_icons=true&theme=radical) -->
