@@ -11,9 +11,18 @@ Here are some ideas to get you started:
  <img align="right" alt="GIF" src="https://qph.fs.quoracdn.net/main-qimg-82b7314fe96c4a2d8f3088207a4afd8d" width="300" height="200" />
  
 ## About me
-- :computer: I'm a Computer engineering student 
-- 🌱 focused Android App Developement and web developement 
-- :coffee: Currently working on improving my knowledge of data structures and Algorithms
+
+### Hi there! I'm Purushottam Panchal 👋
+
+I'm a Master's student in Computer Science at DePaul University with a strong background in software engineering and a passion for building scalable and efficient systems. I have a proven track record of optimizing backend solutions, automating workflows, and ensuring high application performance.
+
+---
+
+**What I'm currently up to:**
+
+* Pursuing my M.S. in Computer Science at DePaul University, with an expected graduation in June 2026. My studies focus on prominent courses like **Algorithms and Data Structures**, **Enterprise Computing**, and **Principles of Database Systems**.
+
+---
 
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=panchalpk20)   -->
