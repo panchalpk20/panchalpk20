@@ -1,11 +1,11 @@
-# Hi there 👋
+
 
 <!--
 **panchalpk20/panchalpk20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 -->
 
-[![Auto type](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+profile...)](https://git.io/typing-svg)
+[![Auto type](https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋)](https://git.io/typing-svg)
 
 
  <img align="right" alt="GIF" src="https://qph.fs.quoracdn.net/main-qimg-82b7314fe96c4a2d8f3088207a4afd8d" width="300" height="200" />
