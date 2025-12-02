@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 ### Hi there! I'm Purushottam Panchal 👋
 
 I'm a software engineer and M.S. Computer Science candidate at DePaul University (expected Jun 2026). I build reliable backend systems, automation pipelines, and web applications — with hands-on experience across Java-based systems, C#/.NET services, and front-end work using TypeScript, HTML, and CSS. My repositories reflect a mix of academic and production work: Java-centric projects for systems and course assignments, full-stack web projects (C# + TypeScript) from web development courses, and distributed/automation projects that use scripting and cloud tools.
-
 Professional highlights include backend API development, CI/CD and automation (Jenkins, Azure DevOps), and cloud integrations on AWS and Azure. I focus on writing maintainable code, improving test coverage, and shipping features reliably.
+
 ---
 
 **What I'm currently up to:**
