@@ -26,6 +26,49 @@ Professional highlights include backend API development, CI/CD and automation (J
 
 ---
 
+
+## Expertise & Tech stack
+
+I organize my day-to-day work around backend services, automation, and reliable delivery. Below is a focused view of the technologies I use and my practical experience with them.
+
+- Languages
+  - Primary: C#, Java, Python, SQL  
+  - Familiar / supporting: TypeScript, HTML/CSS
+
+- Backend & Frameworks
+  - .NET Core / ASP.NET Web API, ASP.NET MVC, Entity Framework  
+  - Java (course & project work), familiarity with Spring Boot concepts
+  - Microservices patterns and API design (JWT-based auth, routing, versioning)
+
+- Frontend & Client
+  - TypeScript-driven front ends (project-level experience), responsive UIs with HTML/CSS
+  - Postman for API testing and quick integration checks
+
+- Cloud & Infrastructure
+  - AWS: S3, EC2, IAM (secure cross-account access patterns)  
+  - Azure: Azure DevOps (CI/CD), App Services, Azure SQL
+  - Implementing cloud-hosted data flows and automating uploads/processing
+
+- CI/CD, Automation & Scripting
+  - Jenkins (pipeline design & automation), Azure DevOps pipelines  
+  - Python and Shell scripting for automation, deployment helpers, and ETL tasks  
+  - Pipeline-driven deployments to reduce manual steps and failure rates
+
+- Testing & Quality
+  - Unit & integration testing: NUnit, MSTest, xUnit, Moq  
+  - End-to-end / browser testing exposure: Selenium (basic)  
+  - Focus on test coverage, code reviews, and reducing post-release defects
+
+- Data & Storage
+  - Microsoft SQL Server, relational schema design and query optimization  
+  - Data validation and transfer workflows for reliable ingestion
+
+- Tools & Processes
+  - Git, Bitbucket, Azure DevOps, Postman, CI/CD best practices  
+  - Emphasis on maintainability: modular code, readable tests, documented pipelines
+
+
+<!--
 **My expertise includes:**
 
 * **Programming Languages:** Java, Python, C#, HTML/CSS, SQL
@@ -35,7 +78,7 @@ Professional highlights include backend API development, CI/CD and automation (J
 * **API Development:** Skilled in architecting and implementing scalable Web APIs using the .NET framework, with a focus on efficient data handling and seamless integration. I also contributed to the development of .NET Web APIs, optimizing back-end solutions.
 * **Testing:** Proficient in designing robust unit tests using **NUnit** and **MSTest** to achieve a bug reduction rate of 15%. I also achieved 95% unit test coverage using NUnit and Moq.
 * **CI/CD:** Played a key role in designing and implementing a streamlined CI/CD pipeline using Azure DevOps, optimizing development workflows and accelerating software delivery.
-
+-->
 ---
 
 
