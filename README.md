@@ -12,7 +12,7 @@ Here are some ideas to get you started:
  
 ## About me
 
-### Hi there! I'm Purushottam Panchal 👋
+### I'm Purushottam Panchal <a href="https://www.linkedin.com/in/purushottam-panchal"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 I'm a software engineer and M.S. Computer Science candidate at DePaul University (expected Jun 2026). I build reliable backend systems, automation pipelines, and web applications — with hands-on experience across Java-based systems, C#/.NET services, and front-end work using TypeScript, HTML, and CSS. My repositories reflect a mix of academic and production work: Java-centric projects for systems and course assignments, full-stack web projects (C# + TypeScript) from web development courses, and distributed/automation projects that use scripting and cloud tools.
 
@@ -78,7 +78,6 @@ I organize my day-to-day work around backend services, automation, and reliable 
 * **API Development:** Skilled in architecting and implementing scalable Web APIs using the .NET framework, with a focus on efficient data handling and seamless integration. I also contributed to the development of .NET Web APIs, optimizing back-end solutions.
 * **Testing:** Proficient in designing robust unit tests using **NUnit** and **MSTest** to achieve a bug reduction rate of 15%. I also achieved 95% unit test coverage using NUnit and Moq.
 * **CI/CD:** Played a key role in designing and implementing a streamlined CI/CD pipeline using Azure DevOps, optimizing development workflows and accelerating software delivery.
--->
 ---
 
 
@@ -88,6 +87,36 @@ I organize my day-to-day work around backend services, automation, and reliable 
 * During my **Software Engineer Intern** role at Persistent Systems, I optimized back-end solutions for improved system performance, leading to a **15% decrease in API processing time** by refactoring code and optimizing database queries. I also had the opportunity to lead a team of 11 interns, guiding them through technical development and skill-building.
 
 ---
+-->
+
+
+## Academic & course projects
+
+Below are key academic repositories on my profile with a short tech stack summary. Click each link to explore code, README details, and project artifacts.
+
+- SE452_FinalProject — Real project coursework  
+  - Repo: https://github.com/panchalpk20/SE452_FinalProject  
+  - Tech: Java, HTML, CSS — Java backend logic with web-based UI components.
+
+- SE452_Real-Estate-Management-System — Course project / web app  
+  - Repo: https://github.com/panchalpk20/SE452_Real-Estate-Management-System  
+  - Tech: Java, HTML, CSS — Full-stack academic project combining Java server-side and client-side pages.
+
+- webdev_FinalProject — Full-stack web development project  
+  - Repo: https://github.com/panchalpk20/webdev_FinalProject  
+  - Tech: C#, TypeScript, CSS — .NET backend with TypeScript-driven frontend; includes UI and API components.
+
+- SE450_Trading-System-Project — Systems / algorithms project  
+  - Repo: https://github.com/panchalpk20/SE450_Trading-System-Project  
+  - Tech: Java — Trading-systems logic and algorithms implemented in Java.
+
+- TempratureMonitor — Sensor / monitoring coursework  
+  - Repo: https://github.com/panchalpk20/TempratureMonitor  
+  - Tech: Java — Data collection and monitoring logic implemented in Java.
+
+- File-Retrival-engine — Distributed systems and IPC project  
+  - Repo: https://github.com/panchalpk20/File-Retrival-engine  
+  - Tech: Java, POSIX sockets — Client-server architecture, IPC using sockets, file retrieval workflows.
 
 **Certifications:**
 
@@ -96,12 +125,13 @@ I organize my day-to-day work around backend services, automation, and reliable 
 
 ---
 
+<!--
 
 **Connect with me:**
 
-<a href="https://www.linkedin.com/in/purushottam-panchal"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
-<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=panchalpk20)   -->
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=panchalpk20)   -->
 <!-- ![States Card](https://github-readme-stats.vercel.app/api?username=panchalpk20&show_icons=true&theme=radical) -->
  
 ## Profiles
