@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 
 <a href="https://www.linkedin.com/in/purushottam-panchal"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
+
+
+
 I'm a software engineer and M.S. Computer Science candidate at DePaul University (expected Jun 2026). I build reliable backend systems, automation pipelines, and web applications — with hands-on experience across Java-based systems, C#/.NET services, and front-end work using TypeScript, HTML, and CSS. My repositories reflect a mix of academic and production work: Java-centric projects for systems and course assignments, full-stack web projects (C# + TypeScript) from web development courses, and distributed/automation projects that use scripting and cloud tools.
 
 Professional highlights include backend API development, CI/CD and automation (Jenkins, Azure DevOps), and cloud integrations on AWS and Azure. I focus on writing maintainable code, improving test coverage, and shipping features reliably.
@@ -126,6 +129,8 @@ Below are key academic repositories on my profile with a short tech stack summar
 * AZ-204 Microsoft Certified Azure Developer Associate
 
 ---
+
+https://panchalpk20.github.io/
 
 <!--
 
