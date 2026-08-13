@@ -58,15 +58,7 @@ I use a variety of technologies depending on the problem rather than limiting my
 **Testing:** JUnit, NUnit, MSTest, xUnit, Mockito, Moq, Postman
 ## Selected Projects
 
-### [Secure CI/CD Pipeline](https://github.com/panchalpk20/Secure-CI-CD-Pipeline)
-
-Built a secure CI/CD pipeline that automates application build, testing, security scanning, containerization, and deployment.
-
-**Tech Stack:** Jenkins, Docker, Terraform, AWS, SonarQube, OWASP Dependency-Check, Git
-
-**Focus:** CI/CD automation, Infrastructure as Code, containerization, security scanning, and automated deployments.
-
-### [DevOps Project](https://github.com/panchalpk20/devOps-project)
+### [Secure CI/CD Pipeline](https://github.com/panchalpk20/devOps-project)
 
 Developed an end-to-end application with automated development and deployment workflows, integrating backend services with a web-based frontend and external services.
 
