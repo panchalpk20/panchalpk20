@@ -102,7 +102,7 @@ Client-server application demonstrating distributed communication and file retri
 **M.S. in Computer Science** — DePaul University  
 Graduated June 2026
 
-**B.E. in Computer Science** — Sinhgad Institute of Technology and Science
+**B.E. in Computer Science** — Pune University
 
 ## Certifications
 
