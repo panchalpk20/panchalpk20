@@ -65,11 +65,6 @@ A full-stack application that brings information from multiple services into a u
 
 **Focus:** API integration, authentication, backend services, frontend development, database persistence, and system design.
 
-### [SE452 Final Project](https://github.com/panchalpk20/SE452_FinalProject)
-
-Academic software engineering project focused on building a complete application through the software development lifecycle.
-
-**Focus:** application architecture, backend development, web interfaces, and collaborative development.
 
 ### [Real Estate Management System](https://github.com/panchalpk20/SE452_Real-Estate-Management-System)
 
