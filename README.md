@@ -56,34 +56,55 @@ I use a variety of technologies depending on the problem rather than limiting my
 **Databases:** SQL Server, MySQL, Oracle, SQLite
 
 **Testing:** JUnit, NUnit, MSTest, xUnit, Mockito, Moq, Postman
-
 ## Selected Projects
 
-### [Timeline Aggregator](https://github.com/panchalpk20/devOps-project)
+### [Secure CI/CD Pipeline](https://github.com/panchalpk20/Secure-CI-CD-Pipeline)
 
-A full-stack application that brings information from multiple services into a unified timeline.
+Built a secure CI/CD pipeline that automates application build, testing, security scanning, containerization, and deployment.
 
-**Focus:** API integration, authentication, backend services, frontend development, database persistence, and system design.
+**Tech Stack:** Jenkins, Docker, Terraform, AWS, SonarQube, OWASP Dependency-Check, Git
 
+**Focus:** CI/CD automation, Infrastructure as Code, containerization, security scanning, and automated deployments.
+
+### [DevOps Project](https://github.com/panchalpk20/devOps-project)
+
+Developed an end-to-end application with automated development and deployment workflows, integrating backend services with a web-based frontend and external services.
+
+**Tech Stack:** .NET, React, TypeScript, Entity Framework Core, SQLite, JWT, OAuth, REST APIs
+
+**Focus:** Full-stack development, API integration, authentication, database persistence, and DevOps automation.
+
+### [Timeline Aggregator](https://github.com/panchalpk20/Timeline-Aggregator)
+
+Developed a full-stack application that aggregates information from multiple services into a unified timeline.
+
+**Tech Stack:** .NET Minimal API, React, TypeScript, Entity Framework Core, SQLite, JWT, OAuth
+
+**Focus:** API integration, authentication, backend services, frontend development, and database persistence.
 
 ### [Real Estate Management System](https://github.com/panchalpk20/SE452_Real-Estate-Management-System)
 
 Full-stack academic application for managing real estate information and workflows.
 
-**Focus:** application development, data management, backend logic, and web-based interfaces.
+**Tech Stack:** Java, HTML, CSS
+
+**Focus:** Application development, data management, backend logic, and web-based interfaces.
 
 ### [Trading System](https://github.com/panchalpk20/SE450_Trading-System-Project)
 
-Systems and algorithms project focused on implementing trading-related application logic.
+Systems and algorithms project implementing trading-related application logic and data processing.
 
-**Focus:** algorithms, data structures, system design, and performance-oriented development.
+**Tech Stack:** Java
+
+**Focus:** Algorithms, data structures, object-oriented design, and performance-oriented development.
 
 ### [File Retrieval Engine](https://github.com/panchalpk20/File-Retrival-engine)
 
-Client-server application demonstrating distributed communication and file retrieval.
+Client-server application demonstrating distributed communication and file retrieval using network-based communication.
 
-**Focus:** distributed systems, inter-process communication, networking, and system-level programming.
+**Tech Stack:** Java, POSIX Sockets
 
+**Focus:** Distributed systems, inter-process communication, networking, and client-server architecture.
 ## Education
 
 **M.S. in Computer Science** — DePaul University  
