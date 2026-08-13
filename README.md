@@ -8,7 +8,7 @@
 
 I'm a Software Engineer with experience building backend services, web applications, automation workflows, and cloud-based solutions.
 
-My work spans **software development, system design, APIs, databases, testing, CI/CD, and cloud infrastructure**. I enjoy working across different layers of a system, from designing application logic and integrating services to automating deployments and improving reliability.
+My work spans **software development, system design, APIs, databases, testing, CI/CD, and cloud infrastructure**. I enjoy working across different layers of a system, from designing application logic to operating services in production.
 
 I use a variety of technologies depending on the problem rather than limiting myself to a single language or framework.
 
@@ -56,53 +56,55 @@ I use a variety of technologies depending on the problem rather than limiting my
 **Databases:** SQL Server, MySQL, Oracle, SQLite
 
 **Testing:** JUnit, NUnit, MSTest, xUnit, Mockito, Moq, Postman
+
 ## Selected Projects
 
-### [Secure CI/CD Pipeline](https://github.com/panchalpk20/devOps-project)
+### [Secure CI/CD Pipeline — Textbook Library](https://github.com/panchalpk20/devOps-project)
 
-Developed an end-to-end application with automated development and deployment workflows, integrating backend services with a web-based frontend and external services.
+![Java](https://img.shields.io/badge/Java-21-007396.svg) ![Jenkins](https://img.shields.io/badge/Jenkins-DAA520.svg) ![Docker](https://img.shields.io/badge/Docker-2496ED.svg) ![Terraform](https://img.shields.io/badge/Terraform-623CE4.svg)
 
-**Tech Stack:** .NET, React, TypeScript, Entity Framework Core, SQLite, JWT, OAuth, REST APIs
+Implements a full secure CI/CD pipeline for a Java Spring Boot (Maven) application (Textbook Library) with MongoDB. The pipeline (Jenkins) automates build, unit and integration tests, dependency scanning (OWASP Dependency-Check), code coverage (JaCoCo), SAST (SonarQube), Docker image build/push, and Terraform-based infrastructure provisioning on AWS.
 
-**Focus:** Full-stack development, API integration, authentication, database persistence, and DevOps automation.
+**Highlights:** Jenkins Declarative pipeline, dependency scanning, container builds, Terraform EC2 deployment, and automated health checks.
 
-### [Timeline Aggregator](https://github.com/panchalpk20/Timeline-Aggregator)
+### [Timeline Aggregator (Personal Timeline)](https://github.com/panchalpk20/Timeline-Aggregator)
 
-Developed a full-stack application that aggregates information from multiple services into a unified timeline.
+![C#](https://img.shields.io/badge/.NET-9-512BD4.svg) ![React](https://img.shields.io/badge/React-61DAFB.svg) ![SQLite](https://img.shields.io/badge/SQLite-003B57.svg)
 
-**Tech Stack:** .NET Minimal API, React, TypeScript, Entity Framework Core, SQLite, JWT, OAuth
+Full-stack Personal Timeline application with a .NET backend (Minimal API / .NET 9) and a React + TypeScript frontend. Supports OAuth-based authentication (Google, GitHub, Twitter/X), Entity Framework Core with SQLite for persistence, and third‑party API integration to aggregate timeline events from multiple services.
 
-**Focus:** API integration, authentication, backend services, frontend development, and database persistence.
+**Highlights:** OAuth integration, EF Core migrations, frontend in Vite + React + TypeScript, and a demo video available in the project's README.
 
-### [Real Estate Management System](https://github.com/panchalpk20/SE452_Real-Estate-Management-System)
+### [Real Estate Management System (SE452)](https://github.com/panchalpk20/SE452_Real-Estate-Management-System)
 
-Full-stack academic application for managing real estate information and workflows.
+![Java](https://img.shields.io/badge/Java-%20-orange)
 
-**Tech Stack:** Java, HTML, CSS
+Academic full‑stack application for managing real estate information and basic workflows. Implemented as part of coursework using Java for backend logic with HTML/CSS front-end pages.
 
-**Focus:** Application development, data management, backend logic, and web-based interfaces.
+**Highlights:** Web-based interfaces and core application logic for property and transaction management.
 
-### [Trading System](https://github.com/panchalpk20/SE450_Trading-System-Project)
+### [Trading System (SE450)](https://github.com/panchalpk20/SE450_Trading-System-Project)
 
-Systems and algorithms project implementing trading-related application logic and data processing.
+![Java](https://img.shields.io/badge/Java-%20-orange)
 
-**Tech Stack:** Java
+Course project focusing on trading system algorithms and data processing. Demonstrates algorithm design, data structures, and performance considerations implemented in Java.
 
-**Focus:** Algorithms, data structures, object-oriented design, and performance-oriented development.
+**Highlights:** Algorithmic implementations and performance-oriented code.
 
 ### [File Retrieval Engine](https://github.com/panchalpk20/File-Retrival-engine)
 
-Client-server application demonstrating distributed communication and file retrieval using network-based communication.
+![Java](https://img.shields.io/badge/Java-%20-orange) ![Sockets](https://img.shields.io/badge/POSIX-Sockets-blue)
 
-**Tech Stack:** Java, POSIX Sockets
+Client-server application demonstrating distributed communication and file retrieval using POSIX sockets in Java. Includes a simple server that serves files and a client that requests and reconstructs files over TCP.
 
-**Focus:** Distributed systems, inter-process communication, networking, and client-server architecture.
+**Highlights:** Client-server architecture, inter-process communication, and basic file transfer protocol implementation.
+
 ## Education
 
 **M.S. in Computer Science** — DePaul University  
 Graduated June 2026
 
-**B.E. in Computer Science** — Pune University
+**B.E. in Computer Science** — Sinhgad Institute of Technology and Science
 
 ## Certifications
 
