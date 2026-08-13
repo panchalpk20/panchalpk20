@@ -1,156 +1,110 @@
+# Hi there 👋 I'm Purushottam Panchal
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/purushottam-panchal/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://panchalpk20.github.io/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/panchalpk20)
 
-<!--
-**panchalpk20/panchalpk20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
--->
+## About Me
 
-# [![Auto type](https://readme-typing-svg.herokuapp.com/?lines=Hi+there+👋)](https://git.io/typing-svg)
+I'm a Software Engineer with experience building backend services, web applications, automation workflows, and cloud-based solutions.
 
+My work spans **software development, system design, APIs, databases, testing, CI/CD, and cloud infrastructure**. I enjoy working across different layers of a system, from designing application logic and integrating services to automating deployments and improving reliability.
 
- <img align="right" alt="GIF" src="https://qph.fs.quoracdn.net/main-qimg-82b7314fe96c4a2d8f3088207a4afd8d" width="300" height="200" />
- 
-## About me
+I use a variety of technologies depending on the problem rather than limiting myself to a single language or framework.
 
-### I'm Purushottam Panchal 
+## What I Work With
 
-<a href="https://www.linkedin.com/in/purushottam-panchal"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+### Software Development
+- Backend services and REST APIs
+- Full-stack web applications
+- Object-oriented and modular application design
+- Service integration and authentication
+- Database design and query optimization
 
+### Cloud & Infrastructure
+- Cloud application development and deployment
+- Infrastructure and environment automation
+- Storage, compute, identity, and networking
+- Cloud-based data and application workflows
 
+### DevOps & Automation
+- CI/CD pipeline development
+- Build, test, and deployment automation
+- Infrastructure as Code
+- Shell and scripting-based automation
+- Containerized application workflows
 
+### Quality & Reliability
+- Unit and integration testing
+- API and integration testing
+- Observability and troubleshooting
+- Code reviews and maintainable development practices
+- Improving deployment and operational reliability
 
-I'm a software engineer and M.S. Computer Science candidate at DePaul University (expected Jun 2026). I build reliable backend systems, automation pipelines, and web applications — with hands-on experience across Java-based systems, C#/.NET services, and front-end work using TypeScript, HTML, and CSS. My repositories reflect a mix of academic and production work: Java-centric projects for systems and course assignments, full-stack web projects (C# + TypeScript) from web development courses, and distributed/automation projects that use scripting and cloud tools.
+## Technologies
 
-Professional highlights include backend API development, CI/CD and automation (Jenkins, Azure DevOps), and cloud integrations on AWS and Azure. I focus on writing maintainable code, improving test coverage, and shipping features reliably.
+**Languages:** Java, C#, Python, SQL, JavaScript, TypeScript
 
----
+**Backend:** .NET, ASP.NET Core, Spring Boot, REST APIs, Microservices
 
-**What I'm currently up to:**
+**Frontend:** React, TypeScript, HTML, CSS
 
-* Pursuing my M.S. in Computer Science at DePaul University, with an expected graduation in June 2026. My studies focus on prominent courses like **Algorithms and Data Structures**, **Enterprise Computing**, and **Principles of Database Systems**.
+**Cloud:** AWS, Azure
 
----
+**DevOps:** Jenkins, Azure DevOps, Docker, Terraform, Git
 
+**Databases:** SQL Server, MySQL, Oracle, SQLite
 
-## Expertise & Tech stack
+**Testing:** JUnit, NUnit, MSTest, xUnit, Mockito, Moq, Postman
 
-I organize my day-to-day work around backend services, automation, and reliable delivery. Below is a focused view of the technologies I use and my practical experience with them.
+## Selected Projects
 
-- Languages
-  - Primary: C#, Java, Python, SQL  
-  - Familiar / supporting: TypeScript, HTML/CSS
+### [Timeline Aggregator](https://github.com/panchalpk20/devOps-project)
 
-- Backend & Frameworks
-  - .NET Core / ASP.NET Web API, ASP.NET MVC, Entity Framework  
-  - Java (course & project work), familiarity with Spring Boot concepts
-  - Microservices patterns and API design (JWT-based auth, routing, versioning)
+A full-stack application that brings information from multiple services into a unified timeline.
 
-- Frontend & Client
-  - TypeScript-driven front ends (project-level experience), responsive UIs with HTML/CSS
-  - Postman for API testing and quick integration checks
+**Focus:** API integration, authentication, backend services, frontend development, database persistence, and system design.
 
-- Cloud & Infrastructure
-  - AWS: S3, EC2, IAM (secure cross-account access patterns)  
-  - Azure: Azure DevOps (CI/CD), App Services, Azure SQL
-  - Implementing cloud-hosted data flows and automating uploads/processing
+### [SE452 Final Project](https://github.com/panchalpk20/SE452_FinalProject)
 
-- CI/CD, Automation & Scripting
-  - Jenkins (pipeline design & automation), Azure DevOps pipelines  
-  - Python and Shell scripting for automation, deployment helpers, and ETL tasks  
-  - Pipeline-driven deployments to reduce manual steps and failure rates
+Academic software engineering project focused on building a complete application through the software development lifecycle.
 
-- Testing & Quality
-  - Unit & integration testing: NUnit, MSTest, xUnit, Moq  
-  - End-to-end / browser testing exposure: Selenium (basic)  
-  - Focus on test coverage, code reviews, and reducing post-release defects
+**Focus:** application architecture, backend development, web interfaces, and collaborative development.
 
-- Data & Storage
-  - Microsoft SQL Server, relational schema design and query optimization  
-  - Data validation and transfer workflows for reliable ingestion
+### [Real Estate Management System](https://github.com/panchalpk20/SE452_Real-Estate-Management-System)
 
-- Tools & Processes
-  - Git, Bitbucket, Azure DevOps, Postman, CI/CD best practices  
-  - Emphasis on maintainability: modular code, readable tests, documented pipelines
+Full-stack academic application for managing real estate information and workflows.
 
+**Focus:** application development, data management, backend logic, and web-based interfaces.
 
-<!--
-**My expertise includes:**
+### [Trading System](https://github.com/panchalpk20/SE450_Trading-System-Project)
 
-* **Programming Languages:** Java, Python, C#, HTML/CSS, SQL
-* **Frameworks:** .NET Core, MVC, Entity Framework, .NET Core Web API, Microservices Architecture
-* **Cloud Services:** AWS (EC2, S3, IAM, SNS, VPC), Azure (SQL Database, DevOps, App Services)
-* **DevOps & Automation:** Experienced in engineering automated workflows using DevOps tools to streamline processes and enhance operational efficiency. I've built Jenkins pipelines to automate data transfers from AWS S3 to EC2 instances, cutting load times by 80% and reducing manual errors. I also reduced data loading failures by 85% through automation and shell scripts.
-* **API Development:** Skilled in architecting and implementing scalable Web APIs using the .NET framework, with a focus on efficient data handling and seamless integration. I also contributed to the development of .NET Web APIs, optimizing back-end solutions.
-* **Testing:** Proficient in designing robust unit tests using **NUnit** and **MSTest** to achieve a bug reduction rate of 15%. I also achieved 95% unit test coverage using NUnit and Moq.
-* **CI/CD:** Played a key role in designing and implementing a streamlined CI/CD pipeline using Azure DevOps, optimizing development workflows and accelerating software delivery.
----
+Systems and algorithms project focused on implementing trading-related application logic.
 
+**Focus:** algorithms, data structures, system design, and performance-oriented development.
 
-**Highlights from my experience:**
+### [File Retrieval Engine](https://github.com/panchalpk20/File-Retrival-engine)
 
-* As a **Software Engineer** at Persistent Systems, I engineered automated workflows using DevOps tools, architected and implemented scalable Web APIs, and contributed to a 15% bug reduction rate through rigorous testing.
-* During my **Software Engineer Intern** role at Persistent Systems, I optimized back-end solutions for improved system performance, leading to a **15% decrease in API processing time** by refactoring code and optimizing database queries. I also had the opportunity to lead a team of 11 interns, guiding them through technical development and skill-building.
+Client-server application demonstrating distributed communication and file retrieval.
 
----
--->
+**Focus:** distributed systems, inter-process communication, networking, and system-level programming.
 
+## Education
 
-## Academic & course projects
+**M.S. in Computer Science** — DePaul University  
+Graduated June 2026
 
-Below are key academic repositories on my profile with a short tech stack summary. Click each link to explore code, README details, and project artifacts.
+**B.E. in Computer Science** — Sinhgad Institute of Technology and Science
 
-- SE452_FinalProject — Real project coursework  
-  - Repo: https://github.com/panchalpk20/SE452_FinalProject  
-  - Tech: Java, HTML, CSS — Java backend logic with web-based UI components.
+## Certifications
 
-- SE452_Real-Estate-Management-System — Course project / web app  
-  - Repo: https://github.com/panchalpk20/SE452_Real-Estate-Management-System  
-  - Tech: Java, HTML, CSS — Full-stack academic project combining Java server-side and client-side pages.
+- Microsoft Azure Fundamentals — AZ-900
+- Microsoft Azure Developer Associate — AZ-204
 
-- webdev_FinalProject — Full-stack web development project  
-  - Repo: https://github.com/panchalpk20/webdev_FinalProject  
-  - Tech: C#, TypeScript, CSS — .NET backend with TypeScript-driven frontend; includes UI and API components.
+## Let's Connect
 
-- SE450_Trading-System-Project — Systems / algorithms project  
-  - Repo: https://github.com/panchalpk20/SE450_Trading-System-Project  
-  - Tech: Java — Trading-systems logic and algorithms implemented in Java.
+I'm interested in software engineering opportunities involving **backend development, distributed systems, cloud engineering, DevOps, and full-stack development**.
 
-- TempratureMonitor — Sensor / monitoring coursework  
-  - Repo: https://github.com/panchalpk20/TempratureMonitor  
-  - Tech: Java — Data collection and monitoring logic implemented in Java.
-
-- File-Retrival-engine — Distributed systems and IPC project  
-  - Repo: https://github.com/panchalpk20/File-Retrival-engine  
-  - Tech: Java, POSIX sockets — Client-server architecture, IPC using sockets, file retrieval workflows.
-
-**Certifications:**
-
-* AZ-900 Microsoft Certified Azure Fundamentals
-* AZ-204 Microsoft Certified Azure Developer Associate
-
----
-
-https://panchalpk20.github.io/
-
-<!--
-
-**Connect with me:**
-
-
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=panchalpk20)   -->
-<!-- ![States Card](https://github-readme-stats.vercel.app/api?username=panchalpk20&show_icons=true&theme=radical) -->
- 
-## Profiles
-<a href="https://www.hackerrank.com/panchalpk20"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/purushottampanchal/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.quora.com/profile/Purushottam-33"><img src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white"></a>
-<a href="https://www.sololearn.com/profile/19062226"><img src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white"></a>
-
-
-## 
-<div align="center">
- 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=panchalpk20&theme=shades-of-purple&background=DD272700&fire=DD3B21)](https://git.io/streak-stats)
-
-</div>
+- [LinkedIn](https://www.linkedin.com/in/purushottam-panchal/)
+- [Portfolio](https://panchalpk20.github.io/)
+- [GitHub](https://github.com/panchalpk20)
